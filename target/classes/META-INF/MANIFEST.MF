@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1526357606452
+Bnd-LastModified: 1526452826905
 Build-Jdk: 1.8.0_91
 Built-By: AsusPC
 Bundle-ManifestVersion: 2

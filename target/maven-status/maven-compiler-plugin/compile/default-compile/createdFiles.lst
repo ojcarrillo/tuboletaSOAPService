@@ -6,6 +6,7 @@ org\tuboleta\demo\RealizarReserva$Reservas.class
 org\tuboleta\demo\ObtenerReservaResponse$Boletas.class
 org\tuboleta\demo\RealizarReserva$Reservas$Persona.class
 org\tuboleta\demo\RealizarReserva.class
+co\com\javeriana\soap\integracion\rest\Constantes.class
 co\com\javeriana\soap\integracion\rest\RestInvoker.class
 org\tuboleta\demo\CancelarReservaResponse.class
 org\tuboleta\demo\CancelarReserva.class
