@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1525975669098
+Bnd-LastModified: 1526357606452
 Build-Jdk: 1.8.0_91
 Built-By: AsusPC
 Bundle-ManifestVersion: 2
@@ -12,8 +12,8 @@ Created-By: Apache Maven Bundle Plugin
 Export-Package: co.com.javeriana.soap.integracion.rest;version="0.0.1.SN
  APSHOT",co.com.javeriana.soap.integracion.tuboletaSOAPService;uses:="or
  g.apache.camel,org.springframework.stereotype";version="0.0.1.SNAPSHOT"
- ,org.example.demo;uses:="javax.jws,javax.xml.bind.annotation,javax.xml.
- datatype,javax.xml.namespace,javax.xml.ws";version="0.0.1.SNAPSHOT"
+ ,org.tuboleta.demo;uses:="javax.jws,javax.xml.bind.annotation,javax.xml
+ .datatype,javax.xml.namespace,javax.xml.ws";version="0.0.1.SNAPSHOT"
 Import-Package: com.fasterxml.jackson.core;version="[2.6,3)",com.fasterx
  ml.jackson.databind;version="[2.6,3)",javax.jws,javax.xml.bind.annotati
  on,javax.xml.datatype,javax.xml.namespace,javax.xml.ws,org.apache.camel

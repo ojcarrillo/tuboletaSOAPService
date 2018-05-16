@@ -3,11 +3,11 @@ package co.com.javeriana.soap.integracion.tuboletaSOAPService;
 import java.io.IOException;
 
 import org.apache.camel.Exchange;
-import org.example.demo.CancelarReserva;
-import org.example.demo.ObtenerReserva;
-import org.example.demo.RealizarReserva;
-import org.example.demo.RealizarReservaResponse;
 import org.springframework.stereotype.Component;
+import org.tuboleta.demo.CancelarReserva;
+import org.tuboleta.demo.ObtenerReserva;
+import org.tuboleta.demo.RealizarReserva;
+import org.tuboleta.demo.RealizarReservaResponse;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
